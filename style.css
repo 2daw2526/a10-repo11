@@ -1,0 +1,14 @@
+
+.card img {
+    image-rendering: pixelated;
+}
+
+.card h5 {
+    text-transform: capitalize;
+}
+.card h6 {
+    text-transform: capitalize;
+}
+body{
+    background-image: url('./img/fondo.jpg');
+}
